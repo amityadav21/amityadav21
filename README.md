@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
 <h3 align="center">A Disciplined Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 
 
 - 🔭 I’m currently working on ArcGIS Remote Sensing and Database Management Systems **Remote Sensing**
